@@ -6,7 +6,7 @@
     
      
 .NOTES
-     Author    : Bruno Leite - bruno.leite@cenovus.com
+     Author    : Bruno Leite - bruno.bezerra@gmail.com
 
 .LINK
 
